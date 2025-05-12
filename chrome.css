@@ -1,6 +1,6 @@
 @-moz-document url-prefix("chrome:") {
   @media (-moz-bool-pref: "mod.zenwallpapers.enabled") {
-    html#main-window[windowtype="navigator:browser"] body::before {
+    body::before {
       content: "";
       background-image: var(--mod-zenwallpapers-bg-img);
       background-size: cover;
