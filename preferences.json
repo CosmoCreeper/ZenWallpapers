@@ -18,7 +18,7 @@
     "property": "mod.zenwallpapers.img.opacity",
     "label": "Wallpaper opacity",
     "defaultValue": "0.15",
-    "placeholder": "opacity, e.g. 0-1"
+    "placeholder": "opacity, e.g. 0-1",
     "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
   }
 ]
