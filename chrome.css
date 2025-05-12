@@ -1,14 +1,16 @@
-@media (-moz-bool-pref: "mod.zenwallpapers.enabled") {
-  body::before {
-    content: "";
-    background-image: var(--mod-zenwallpapers-bg-img);
-    background-size: cover;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    opacity: var(--mod-zenwallpapers-img-opacity);
-    width: calc(100% + 4.8px);
-  }
+@-moz-document url-prefix("chrome:") {
+  @media (-moz-bool-pref: "mod.zenwallpapers.enabled") {
+    body::before {
+      content: "";
+      background-image: var(--mod-zenwallpapers-bg-img);
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: var(--mod-zenwallpapers-img-opacity);
+      width: calc(100% + 4.8px);
+    }
+  } 
 }
