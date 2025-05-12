@@ -1,0 +1,19 @@
+{
+  "id": "zenwallpapers",
+  "name": "Zen Wallpapers",
+  "description": "Add wallpapers to Zen",
+  "homepage": "https://github.com/CosmoCreeper/ZenWallpapers",
+  "readme": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/README.md",
+  "preferences": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/preferences.json",
+  "style": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/chrome.css",
+  "author": "CosmoCreeper",
+  "version": "1.0.0",
+  "tags": [
+    "wallpapers",
+    "zen",
+    "sidebar",
+    "images"
+  ],
+  "createdAt": "2025-05-12",
+  "updatedAt": "2025-05-12"
+}
