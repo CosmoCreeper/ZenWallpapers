@@ -11,7 +11,7 @@
     "label": "Zen wallpaper:",
     "defaultValue": "url(\"https://images.wallpapersden.com/image/download/windows-12-concept_bWttbmeUmZqaraWkpJRobWllrWdma2U.jpg\")",
     "placeholder": "url(\"https://...\")",
-    "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
+    "conditions": [{"if": {"property":"mod.zenwallpapers.enabled","value":true}}]
   },
   {
     "type": "string",
@@ -19,6 +19,6 @@
     "label": "Wallpaper opacity",
     "defaultValue": "0.15",
     "placeholder": "opacity, e.g. 0-1",
-    "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
+    "conditions": [{"if": {"property":"mod.zenwallpapers.enabled","value":true}}]
   }
 ]
