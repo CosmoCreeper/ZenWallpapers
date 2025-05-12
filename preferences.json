@@ -9,8 +9,8 @@
     "type": "string",
     "property": "mod.zenwallpapers.bg-img",
     "label": "Zen wallpaper:",
-    "defaultValue": "url('https://images.wallpapersden.com/image/download/windows-12-concept_bWttbmeUmZqaraWkpJRobWllrWdma2U.jpg')",
-    "placeholder": "url('https://...')",
+    "defaultValue": "url(\"https://images.wallpapersden.com/image/download/windows-12-concept_bWttbmeUmZqaraWkpJRobWllrWdma2U.jpg\")",
+    "placeholder": "url(\"https://...\")",
     "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
   },
   {
