@@ -1,0 +1,24 @@
+[
+  {
+    "type": "checkbox",
+    "property": "mod.zenwallpapers.enabled",
+    "defaultValue": true,
+    "label": "Enable Zen wallpapers."
+  },
+  {
+    "type": "string",
+    "property": "mod.zenwallpapers.bg-img",
+    "label": "Zen wallpaper:",
+    "defaultValue": "url(\"https://images.wallpapersden.com/image/download/windows-12-concept_bWttbmeUmZqaraWkpJRobWllrWdma2U.jpg\")",
+    "placeholder": "url(\"https://...\")",
+    "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
+  },
+  {
+    "type": "string",
+    "property": "mod.zenwallpapers.img.opacity",
+    "label": "Wallpaper opacity",
+    "defaultValue": "0.15",
+    "placeholder": "opacity, e.g. 0-1"
+    "conditions": {"if": {"property":"mod.zenwallpapers.enabled","value":true}}
+  }
+]
