@@ -9,7 +9,7 @@
     "type": "string",
     "property": "mod.zenwallpapers.bg-img",
     "label": "Zen wallpaper:",
-    "defaultValue": "url(\"https://images.wallpapersden.com/image/download/windows-12-concept_bWttbmeUmZqaraWkpJRobWllrWdma2U.jpg\")",
+    "defaultValue": "url(\"https://pluspng.com/img-png/art-png-transparent-background-abstract-colors-transparent-background-1024.png\")",
     "placeholder": "url(\"https://...\")",
     "conditions": [{"if": {"property":"mod.zenwallpapers.enabled","value":true}}]
   },
