@@ -2,7 +2,7 @@
   "id": "zenwallpapers",
   "name": "Zen Wallpapers",
   "description": "Add wallpapers to Zen",
-  "homepage": "https://github.com/CosmoCreeper/ZenWallpapers",
+  "homepage": "https://github.com/CosmoCreeper/ZenWallpapers/tree/test",
   "readme": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/README.md",
   "preferences": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/preferences.json",
   "style": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/chrome.css",
