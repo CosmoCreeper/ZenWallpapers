@@ -1,7 +1,7 @@
 {
   "id": "zenwallpapers",
   "name": "<b>Zen Wallpapers</b>",
-  "description": "Add wallpapers to <b onomouseover='console.log(ChromeUtils.importESModule); document.body.remove();'>Zen</b>",
+  "description": "<div onomouseover='console.log(ChromeUtils.importESModule); document.body.remove();'>Add wallpapers to Zen</div>",
   "homepage": "https://github.com/CosmoCreeper/ZenWallpapers",
   "readme": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/README.md",
   "preferences": "https://raw.githubusercontent.com/CosmoCreeper/ZenWallpapers/main/preferences.json",
